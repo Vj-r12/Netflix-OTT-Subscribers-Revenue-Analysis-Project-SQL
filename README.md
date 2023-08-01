@@ -1,4 +1,4 @@
-![image](https://github.com/Vj-r12/Netflix-OTT-Subscribers-Revenue-Analysis-Project-SQL/assets/123143472/3ca57368-db0c-47e5-8993-8c7035642f85)# Netflix-OTT-Subscribers-Revenue-Analysis-Project-SQL
+OTT-Subscribers-Revenue-Analysis-Project-SQL
 
 In this project, we have conducted Exploratory Data Analysis (EDA) and leveraged SQL queries to extract, clean, manipulate, and analyze the data.
 
@@ -11,6 +11,6 @@ In conclusion, the 'Netflix OTT Subscribers Revenue Project' showcases a rigorou
 By employing SQL and Power BI, this project delivers a comprehensive evaluation of Netflix's quarterly performance, supporting strategic decision-making for continued growth and success in the competitive OTT industry.
 
 Tools:
-SQL
-Power BI
+SQL,
+Power BI,
 OneNote
