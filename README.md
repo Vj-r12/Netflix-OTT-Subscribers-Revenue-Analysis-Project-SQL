@@ -1,4 +1,4 @@
-OTT-Subscribers-Revenue-Analysis-Project-SQL
+Netflix-OTT-Subscribers-Revenue-Analysis-Project-SQL
 
 In this project, we have conducted Exploratory Data Analysis (EDA) and leveraged SQL queries to extract, clean, manipulate, and analyze the data.
 
