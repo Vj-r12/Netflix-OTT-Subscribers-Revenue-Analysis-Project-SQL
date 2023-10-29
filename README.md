@@ -1,7 +1,10 @@
 
 
 
-![0_b_F6XdiDD_Uz4xb6](https://github.com/Vj-r12/Netflix-OTT-Subscribers-Revenue-Analysis-Project-SQL/assets/123143472/9a8b8a39-9372-47b5-a0e8-3fa0640a905e)
+
+![0_b_F6XdiDD_Uz4xb6](https://github.com/Vj-r12/Netflix-OTT-Subscribers-Revenue-Analysis-Project-SQL/assets/123143472/9d0f3acc-514b-4408-8d4a-faa5ffac1b8b)
+
+
 
 
 
