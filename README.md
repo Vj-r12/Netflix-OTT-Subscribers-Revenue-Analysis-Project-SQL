@@ -1,3 +1,10 @@
+
+
+
+![netflix-logo-animation-rss7ixspt8igbfuc](https://github.com/Vj-r12/Netflix-OTT-Subscribers-Revenue-Analysis-Project-SQL/assets/123143472/d0abbca7-63ae-4b1b-aac3-95395091807e)
+
+
+
 Netflix-OTT-Subscribers-Revenue-Analysis-Project-SQL
 
 In this project, we have conducted Exploratory Data Analysis (EDA) and leveraged SQL queries to extract, clean, manipulate, and analyze the data.
